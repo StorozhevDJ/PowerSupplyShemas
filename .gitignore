@@ -1,3 +1,4 @@
 /v1/OnlineDRC.ERR.txt
 *.LOG
 *.BAK
+*.ERR
